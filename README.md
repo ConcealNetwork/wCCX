@@ -7,7 +7,7 @@ wCCX stands for Wrapped Conceal and is simply an ERC20 token that represents the
 
 The purpose of $wCCX is simple, to create a privacy protected gateway from ETH ecosystem.
 
-Contract: 0x21686F8ce003a95c99aCd297E302FAACf742F7d4
+**Contract: 0x21686F8ce003a95c99aCd297E302FAACf742F7d4**
 
 Official Site: https://conceal.network/ 
 
