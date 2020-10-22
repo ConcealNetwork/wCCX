@@ -5,7 +5,7 @@
 
 wCCX stands for Wrapped Conceal and is simply an ERC20 token that represents the real Conceal $CCX on the Ethereum ecosystem. One WCCX equals one $CCX.
 
-The purpose of $wCCX is simple, to create leveraged stable coin trades as a yield aggregator for lending platforms that rebalances for highest yield during contract interaction. LPs earn additional interest on their yield bearing tokens, traders can create leveraged positions.
+The purpose of $wCCX is simple, to create a privacy protected gateway from ETH ecosystem.
 
 Contract: 0x21686F8ce003a95c99aCd297E302FAACf742F7d4
 
