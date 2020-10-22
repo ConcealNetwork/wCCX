@@ -1,7 +1,7 @@
-# wrappedCCX
+# Wrapped Conceal
 
 
-**wCCX**
+**wCCX (ERC20 Token)**
 
 wCCX stands for Wrapped Conceal and is simply an ERC20 token that represents the real Conceal $CCX on the Ethereum ecosystem. One WCCX equals one $CCX.
 
