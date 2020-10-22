@@ -18,7 +18,7 @@ Etherscan: https://etherscan.io/token/0x21686F8ce003a95c99aCd297E302FAACf742F7d4
 
 Token: https://info.uniswap.org/token/0x21686f8ce003a95c99acd297e302faacf742f7d4
 
-ETH-wCCX LP: https://info.uniswap.org/pair/0x5618f75443457cF662d3445477D71F3b088e089B
+LP (ETH-wCCX): https://info.uniswap.org/pair/0x5618f75443457cF662d3445477D71F3b088e089B
 
 **DEXs**
 
