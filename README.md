@@ -1,12 +1,11 @@
 # Wrapped Conceal
 
 
+**wCCX (Cross-Chain Token)**
 
-**wCCX (ERC20 Token)**
+wCCX stands for Wrapped Conceal and is simply an ERC20/BEP20 token that represents the real Conceal $CCX on the Ethereum and Binance Smart Chain ecosystems. One $wCCX equals one $CCX.
 
-wCCX stands for Wrapped Conceal and is simply an ERC20 token that represents the real Conceal $CCX on the Ethereum ecosystem. One WCCX equals one $CCX.
-
-The purpose of $wCCX is simple, to create a privacy protected gateway from ETH ecosystem.
+The purpose of $wCCX is simple, to create a privacy protected gateway from ETH and BSC ecosystems.
 
 
 # ETH Network
@@ -39,6 +38,8 @@ LedgerDEX: https://app.ledgerdex.com/#/app/erc20token/0x21686f8ce003a95c99acd297
 
 
 # BSC Network
+
+**Contract: 0x988c11625472340b7B36FF1534893780E0d8d841**
 
 PancakeSWap: https://pancakeswap.info/pair/0x2de718208a1f15f590cb90c4a1bb4b42331fdcfe
 
