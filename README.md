@@ -9,6 +9,7 @@ wCCX stands for Wrapped Conceal and is simply an ERC20 token that represents the
 The purpose of $wCCX is simple, to create a privacy protected gateway from ETH ecosystem.
 
 
+# ETH Network
 
 **Contract: 0x21686F8ce003a95c99aCd297E302FAACf742F7d4**
 
@@ -37,7 +38,12 @@ LP (ETH-wCCX): https://info.uniswap.org/pair/0x5618f75443457cF662d3445477D71F3b0
 LedgerDEX: https://app.ledgerdex.com/#/app/erc20token/0x21686f8ce003a95c99acd297e302faacf742f7d4
 
 
+# BSC Network
 
-**Buy wCCX**
+PancakeSWap: https://pancakeswap.info/pair/0x2de718208a1f15f590cb90c4a1bb4b42331fdcfe
 
-https://sale.conceal.cloud/sale
+PancakeSwap: https://pancakeswap.info/pair/0xb238e5fdaff03d9b74945143518176e8d81ef95f
+
+1Inch: https://1inch.exchange/#/BUSD/wCCX
+
+BakerySwap: https://info.bakeryswap.org/#/pair/0xc74dac6068de97d965037acb38e0e9d7f73b2be9
