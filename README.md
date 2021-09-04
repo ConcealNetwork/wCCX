@@ -5,7 +5,7 @@
 
 wCCX stands for Wrapped Conceal and is simply an ERC20/BEP20 token that represents the real Conceal $CCX on the Ethereum and Binance Smart Chain ecosystems. One $wCCX equals one $CCX.
 
-The purpose of $wCCX is simple, to create a privacy protected gateway from ETH and BSC ecosystems.
+The purpose of $wCCX is simple, to create a privacy protected gateway from other chains' ecosystems.
 
 Official Site: https://conceal.network/ 
 
