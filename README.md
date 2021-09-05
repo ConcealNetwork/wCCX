@@ -35,7 +35,7 @@ Sushiswap: https://analytics-bsc.sushi.com/tokens/0x988c11625472340b7b36ff153489
 
 1Inch: https://1inch.exchange/#/BUSD/wCCX
 
-BakerySwap: https://info.bakeryswap.org/#/pair/0xc74dac6068de97d965037acb38e0e9d7f73b2be9
+BakerySwap: https://info.bakeryswap.org/#/token/0x988c11625472340b7B36FF1534893780E0d8d841
 
 
 # Polygon Network
