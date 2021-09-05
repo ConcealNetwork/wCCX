@@ -4,7 +4,7 @@
 **wCCX (Cross-Chain Token)**
 
 
-wCCX stands for Wrapped Conceal and is simply an ERC20/BEP20 token that represents the real Conceal $CCX on other chain (Ethereum, Binance Smart Chain & Poilygon). One $wCCX equals one $CCX ( 1 wCCX = 1 CCX).
+wCCX stands for Wrapped Conceal and is simply an ERC20/BEP20 token that represents the real Conceal $CCX on other chain (Ethereum, Binance Smart Chain & Poilygon). One $wCCX equals one $CCX (1 wCCX = 1 CCX).
 
 The purpose of $wCCX is simple, to create a privacy-protected gateway from other chains to CCX ecosystem. 
 
