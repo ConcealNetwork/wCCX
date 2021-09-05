@@ -12,6 +12,8 @@ Official Site: https://conceal.network/
 
 Cross-Chain Bridge: https://bridge.conceal.network/
 
+Bridge User Guide: https://concealnetwork.medium.com/conceal-bridge-user-guide-2ad03eee4963
+
 
 
 # ETH Network
