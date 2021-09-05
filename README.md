@@ -10,6 +10,8 @@ The purpose of $wCCX is simple, to create a privacy-protected gateway from other
 
 Official Site: https://conceal.network/ 
 
+Cross-Chain Bridge: https://bridge.conceal.network/
+
 
 
 # ETH Network
