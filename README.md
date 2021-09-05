@@ -36,7 +36,7 @@ BakerySwap: https://info.bakeryswap.org/#/pair/0xc74dac6068de97d965037acb38e0e9d
 
 # Polygon Network
 
-**Contract: 0x137ee749f0f8c2ed34ca00de33bb59e3dafa494a**
+**Contract: 0x137Ee749f0F8c2eD34cA00dE33BB59E3dafA494A**
 
 Polygon explorer: https://polygonscan.com/token/0x137ee749f0f8c2ed34ca00de33bb59e3dafa494a?a=0x57003aefb1f5bd973b6a3a4b2207ccb9cb98b85200de33bb59e3dafa494a/token-transfers
 
