@@ -16,8 +16,6 @@ Official Site: https://conceal.network/
 
 Token: https://etherscan.io/token/0x21686F8ce003a95c99aCd297E302FAACf742F7d4
 
-Contract: https://etherscan.io/address/0x21686f8ce003a95c99acd297e302faacf742f7d4
-
 Uniswap: https://info.uniswap.org/token/0x21686f8ce003a95c99acd297e302faacf742f7d4
 
 LedgerDEX: https://app.ledgerdex.com/#/app/erc20token/0x21686f8ce003a95c99acd297e302faacf742f7d4
@@ -27,7 +25,11 @@ LedgerDEX: https://app.ledgerdex.com/#/app/erc20token/0x21686f8ce003a95c99acd297
 
 **Contract: 0x988c11625472340b7B36FF1534893780E0d8d841**
 
+Token: https://bscscan.com/token/0x988c11625472340b7B36FF1534893780E0d8d841
+
 PancakeSWap: https://pancakeswap.finance/info/token/0x988c11625472340b7b36ff1534893780e0d8d841
+
+Sushiswap: https://analytics-bsc.sushi.com/tokens/0x988c11625472340b7b36ff1534893780e0d8d841
 
 1Inch: https://1inch.exchange/#/BUSD/wCCX
 
@@ -38,6 +40,6 @@ BakerySwap: https://info.bakeryswap.org/#/pair/0xc74dac6068de97d965037acb38e0e9d
 
 **Contract: 0x137Ee749f0F8c2eD34cA00dE33BB59E3dafA494A**
 
-Polygon explorer: https://polygonscan.com/token/0x137ee749f0f8c2ed34ca00de33bb59e3dafa494a
+Token: https://polygonscan.com/token/0x137ee749f0f8c2ed34ca00de33bb59e3dafa494a
 
 Sushiswap: https://analytics-polygon.sushi.com/tokens/0x137ee749f0f8c2ed34ca00de33bb59e3dafa494a
